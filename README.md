@@ -1,2 +1,1 @@
-# dictionaries
-exercise of dictionary
+# Dictionaries Quiz
